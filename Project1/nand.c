@@ -1,5 +1,5 @@
 /* 
-    Solution for the first project of Computer Architecture and Operating Systems class.
+    Solution for the first assignment of Computer Architecture and Operating Systems class.
     Simple library that allows performing chosen operations on NAND gates.
     Author: Gracjan Barski
 */
